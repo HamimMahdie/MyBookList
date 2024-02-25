@@ -25,8 +25,12 @@ Open a web browser and navigate to http://localhost:5000/swagger to access the S
 
 
 ### API Endpoints
-GET /books: Get a list of all books.
-POST /books: Add a new book to the library.
-GET /books/<index>: Get details of a specific book.
-PUT /books/<index>: Update details of a specific book.
-DELETE /books/<index>: Delete a specific book.
+GET "/books": Get a list of all books.
+
+POST "/books": Add a new book to the library.
+
+GET "/books/<index>": Get details of a specific book.
+
+PUT "/books/<index>": Update details of a specific book.
+
+DELETE "/books/<index>": Delete a specific book.
