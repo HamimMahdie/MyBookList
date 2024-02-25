@@ -9,6 +9,8 @@ This is a Dockerized Flask API for managing a library of books. It includes endp
 ## Requirements
 
 - Docker
+- Python
+- Laptop
 
 ## Installation
 
