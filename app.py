@@ -2,7 +2,7 @@ from flask import Flask, request
 from flask_restful import Resource, Api, reqparse, abort
 from flask_swagger_ui import get_swaggerui_blueprint
 
-app = Flask("Flick Finder") 
+app = Flask("MyBookList") 
 api = Api(app)
 
 # Hardcoded database
