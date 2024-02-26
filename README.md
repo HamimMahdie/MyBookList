@@ -5,7 +5,7 @@
 
 This is a Dockerized Flask API for managing a library of books. It includes endpoints for adding, updating, retrieving, and deleting books, as well as Swagger documentation for easy API exploration.
 
-## Journey
+## My Journey
 
 Throughout my journey, I initially delved into Spring Boot with Maven, following along with tutorials from Amigoscode on YouTube. However, I hit a roadblock when encountering unusual errors on my device, despite extensive troubleshooting efforts. This prompted me to pivot to Python and Flask, where I found building applications to be more straightforward, especially with the help of YouTube tutorials to guide me through Flask, which was new to me. Despite the detour, I aim to revisit Spring Boot to further my learning and resolve the errors I encountered, as I believe it holds valuable knowledge and skills worth mastering.
 
